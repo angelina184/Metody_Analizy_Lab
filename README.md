@@ -9,3 +9,4 @@
 - [Laboratorium_6](https://github.com/kropiak/swps-metody-analizy-danych/blob/main/lab_06/lab_06.ipynb)
 - [Laboratorium_7](https://github.com/kropiak/swps-metody-analizy-danych/tree/main/lab_07)
 - [Laboratorium_8](https://github.com/kropiak/swps-metody-analizy-danych/tree/main/lab_08)
+- [Laboratorium_9](https://github.com/kropiak/swps-metody-analizy-danych/blob/main/lab_09/lab_09.ipynb)
